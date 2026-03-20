@@ -25,7 +25,6 @@ location   : Colombo, Sri Lanka 🇱🇰
 education  : BSc (Hons) Computer Science
              Informatics Institute of Technology (IIT)
              Affiliated with University of Westminster
-             Level 04 Average → 80.16% 🏅
 
 currently_building:
   - 🏥  Airea    → Smart IoT Health Monitoring System  (Flutter + Spring Boot + ESP32 + TFLite)
@@ -198,23 +197,18 @@ Responsive film discovery platform with **TMDb API** integration, genre-weighted
 
 <div align="center">
 
-```
-🎓  BSc (Hons) Computer Science                       2024 – Present
-    Informatics Institute of Technology (IIT)
-    Affiliated with University of Westminster, UK
+| 🎓 | **BSc (Hons) Computer Science** | 2024 – Present |
+|:---:|:---|:---:|
+| | Informatics Institute of Technology (IIT) | |
+| | Affiliated with University of Westminster, UK | |
 
-    Level 04 Average: 80.16%
-    ├── Computer System Fundamentals   86%
-    ├── Mathematics for Computing      89%
-    ├── Software Development I & II    78% / 82%
-    └── Database Systems (L05)         91%
+| 📜 | **Foundation Certificate in Higher Education** | 2023 |
+|:---:|:---|:---:|
+| | Informatics Institute of Technology | Grade: Distinction |
 
-📜  Foundation Certificate in Higher Education         2023
-    Informatics Institute of Technology  |  Grade: Distinction
-
-🏫  Primary & Secondary Education                     2009 – 2022
-    Hindu College, Colombo  |  G.C.E. O/L: 9 A's
-```
+| 🏫 | **Primary & Secondary Education** | 2009 – 2022 |
+|:---:|:---|:---:|
+| | Hindu College, Colombo | G.C.E. O/L: 9 A's |
 
 </div>
 
