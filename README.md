@@ -179,7 +179,9 @@ Responsive film discovery platform with **TMDb API** integration, genre-weighted
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mathushihanratnatheepan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://skillicons.dev/icons?i=java,python,ts,react,tailwind,materialui,flutter&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,postgres,mysql,mongodb,redis,docker&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=github,githubactions,aws,git,vscode,tensorflow,supabase&theme=dark" />
 
 <br/>
 
